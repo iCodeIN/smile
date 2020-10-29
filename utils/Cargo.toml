@@ -1,0 +1,9 @@
+[package]
+name = "smile-utils"
+version = "0.1.0"
+edition = "2021"
+authors = ["Davide Galassi <davxy@datawok.net>"]
+description = "Smile cryptographic library utilities"
+license = "MIT"
+
+[dependencies]
